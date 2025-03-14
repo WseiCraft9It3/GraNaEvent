@@ -1,0 +1,3 @@
+https://assetstore.unity.com/packages/audio/sound-fx/classic-footstep-sfx-173668 dźwięk chodzenia
+https://assetstore.unity.com/packages/audio/ambient/underwater-ambient-66498 dźwięk tła do jaskini
+https://assetstore.unity.com/packages/audio/music/free-8-piano-ambient-tracks-275538 dźwięk pianina ( też można dodać do tła)
